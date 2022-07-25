@@ -6,7 +6,7 @@
   var TIME_SLICE = 5 // minutes
   var SLOT_DURATION = 30 // minutes
   var config = {
-    programmeUrl: "https://participez-2019.capitoledulibre.org/schedule/xml/",
+    programmeUrl: "/programme/cdl-2019-schedule.xml",
     ponyConfUrl: "https://participez-2019.capitoledulibre.org",
   }
 
